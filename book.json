@@ -1,0 +1,22 @@
+{
+    "gitbook": "3.x.x",
+    "title": "JavaScript高级程序设计【解读版】",
+    "description": "",
+     "language": "zh",
+     "plugins":[
+     	"github",
+     	"expandable-chapters"
+     ],
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "pluginsConfig":{
+    	"github":{
+    		"url":"https://github.com/zhaohaodang/pro-js-talk"
+    	},
+    	"expandable-chapters":{
+    		
+    	}
+    }
+}

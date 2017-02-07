@@ -1,2 +1,3 @@
-# pro-js-talk
-Professional JavaScript for Web Developers
+## JavaScript高级程序设计【解读版】
+
+考前划重点，核心知识点

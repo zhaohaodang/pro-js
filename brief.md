@@ -1,2 +1,0 @@
-# JavaScript 简介
-

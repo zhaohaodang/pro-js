@@ -8,6 +8,6 @@ JavaScript诞生于1995 年，至今已有二十多年
 
 它既简单——入门快
 
-又复杂——”你从来没精通它“
+又复杂——学得越多，越无知
 
- ![javascript](http://zhaohaodang.com/static/images/javascript.png)
+ ![javascript](http://zhaohaodang.com/static/images/pro-js-talk/javascript.png)

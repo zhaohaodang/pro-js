@@ -27,7 +27,7 @@
         * [3.1.5 语句](chapter03/01/语句.md)
     * [3.2 关键字和保留字](chapter03/02/keywords-reserved-words.md)
     * [3.3 变量](chapter03/03/variables.md)
-    * [3.4 数据类型](chapter03/04/variables.md)
+    * [3.4 数据类型](chapter03/04/data-type.md)
         * [3.4.1 typeof操作符](chapter03/04/typeof操作符.md)
         * [3.4.2 Undefined类型](chapter03/04/Undefined类型.md)
         * [3.4.3 Null类型](chapter03/04/Null类型.md)

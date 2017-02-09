@@ -24,6 +24,11 @@
         },
         "disqus": {
             "shortName": "zhaohaodang"
+        },
+        "fontSettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 3
         }
     }
 }

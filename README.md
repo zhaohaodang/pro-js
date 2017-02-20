@@ -10,7 +10,7 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书
 
 笔者码字喜欢换行，请谅解
 
-[开始阅读](https://zhaohaodang.github.io/note/pro-js/)
+[开始阅读](https://zhaohaodang.github.io/article/pro-js/)
 
 
 进度

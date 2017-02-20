@@ -56,7 +56,7 @@
         * [3.6.7 break和continue语句](chapter03/06/break和continue语句.md)
         * [3.6.8 with语句](chapter03/06/with语句.md)
         * [3.6.9 switch语句](chapter03/06/switch语句.md)
-    * [3.7 函数](chapter03/07/unctions.md)
+    * [3.7 函数](chapter03/07/functions.md)
         * [3.7.1 理解参数](chapter03/07/理解参数.md)
         * [3.7.2 没有重载](chapter03/07/没有重载.md)
 * [第4章 变量、作用域和内存问题](chapter04/variables-scope-memory.md)

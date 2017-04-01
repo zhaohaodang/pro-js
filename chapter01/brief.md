@@ -10,4 +10,4 @@ JavaScript诞生于1995 年，至今已有二十多年
 
 又复杂——学得越多，越无知
 
- ![javascript](http://zhaohaodang.com/static/images/pro-js-talk/javascript.png)
+ ![javascript](https://sinacloud.net/pro-js/javascript.png)

@@ -9,4 +9,4 @@ ECMA-262 规定了一组语句（也称为流控制语句）定义了ECMAScript 
 也可以比较复杂，例如指定重复执行某个命令的次数
 
 
-![](http://zhaohaodang.com/static/images/pro-js-talk/statement.png)
+![](https://sinacloud.net/pro-js/statement.png)

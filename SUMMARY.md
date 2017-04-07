@@ -101,7 +101,7 @@
         * [5.5.4 函数内部属性](chapter05/05/函数内部属性.md)
         * [5.5.5 函数属性和方法](chapter05/05/函数属性和方法.md)
     * [5.6 基本包装类型](chapter05/06/primitive-wrapper.md)
-        * [5.5.5 函数属性和方法](chapter05/06/函数属性和方法.md)
+        * [5.6.1 函数属性和方法](chapter05/06/Boolean类型.md)
         * [5.6.2 Number类型](chapter05/06/Number类型.md)
         * [5.6.3 String类型](chapter05/06/String类型.md)
     * [5.7 单体内置对象](chapter05/07/built-in.md)

@@ -1,4 +1,4 @@
-# <noscript>元素
+# noscript元素
 
 在下列情况下，包含在`<noscript>`元素中的内容才会显示出来：
 

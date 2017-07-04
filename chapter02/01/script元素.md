@@ -1,4 +1,4 @@
-# <script>元素
+# script元素
 
 属性：
 

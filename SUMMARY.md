@@ -1,15 +1,14 @@
 # Summary
 
-* [前言](README.md)
-* [第1章 JavaScript 简介](chapter01/brief.md)
-    * [1.1 JavaScript简史](chapter01/01/history.md)
+- [第1章 JavaScript 简介](chapter01/brief.md)
+    - [1.1 JavaScript简史](chapter01/01/history.md)
     * [1.2 JavaScript实现](chapter01/02/realize.md)
         * [1.2.1 ECMAScript](chapter01/02/ECMAScript.md)
         * [1.2.2 文档对象模型（DOM）](chapter01/02/文档对象模型.md)
         * [1.2.3 浏览器对象模型（BOM）](chapter01/02/浏览器对象模型.md)
     * [1.3 JavaScript 版本](chapter01/03/version.md)
 * [第2章 在HTML 中使用JavaScript](chapter02/HowToUse.md)
-    * [2.1 script元素](chapter02/01/script-ele.md)
+    * [2.1 script元素](chapter02/01/script元素.md)
         * [2.1.1 标签的位置](chapter02/01/标签的位置.md)
         * [2.1.2 延迟脚本](chapter02/01/延迟脚本.md)
         * [2.1.3 异步脚本](chapter02/01/异步脚本.md)

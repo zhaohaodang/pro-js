@@ -6,7 +6,7 @@ isNaN()、isFinite()、parseInt()以及parseFloat()，实际上全都是Global�
 
 除此之外，Global 对象还包含其他一些方法：
 
-*URI 编码方法*
+### URI 编码方法
 
 Global 对象的encodeURI()和encodeURIComponent()方法可以对URI进行编码，以便发送给浏览器。
 
@@ -42,7 +42,7 @@ alert(decodeURIComponent(uri));
 
 escape()和unescape()只能正确地编码ASCII 字符，已经被废弃！
 
-*eval()方法*
+### eval()方法
 
 eval()方法就像是一个完整的ECMAScript 解析器，它只接受一个参数，即要执行的或JavaScript字符串，然后把执行结果插入到原位置。
 

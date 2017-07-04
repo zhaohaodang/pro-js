@@ -23,7 +23,7 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书
 
  ![](http://progressed.io/bar/100?title=completed)第3章 基本概念
 
- ![](http://progressed.io/bar/100?title=completed)第4章 变量、作用域和内存问题→4.1
+ ![](http://progressed.io/bar/100?title=completed)第4章 变量、作用域和内存问题
 
  ![](http://progressed.io/bar/100?title=completed)第5章 引用类型
 

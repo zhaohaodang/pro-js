@@ -10,7 +10,7 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书
 
 笔者码字喜欢换行，请谅解
 
-文章地址：[http://zhaohaodang.com:8002/#/](http://zhaohaodang.com:8002/#/)
+文章地址：[http://zhaohaodang.com/pro-js/](http://zhaohaodang.com/pro-js/)
 
 
 进度

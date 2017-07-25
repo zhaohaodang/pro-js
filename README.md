@@ -21,9 +21,9 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
  ![](http://progressed.io/bar/100?title=completed)第5章 引用类型
 
- ![](http://progressed.io/bar/40?title=completed)第6章 面向对象的程序设计
+ ![](http://progressed.io/bar/100?title=completed)第6章 面向对象的程序设计
 
- ![](http://progressed.io/bar/0?title=completed)第7章 函数表达式
+ ![](http://progressed.io/bar/10?title=completed)第7章 函数表达式
 
   ......
 

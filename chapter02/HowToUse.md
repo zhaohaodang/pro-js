@@ -1,4 +1,4 @@
-# 在HTML 中使用JavaScript
+# 第2章 在HTML 中使用JavaScript
 
 只要一提到把JavaScript 放到网页中，就不得不涉及Web 的核心语言——HTML。
 

@@ -2,11 +2,9 @@
 
 JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
-笔者在学习之余，提炼出书中核心知识点，写个【精简版】，有些像考前画重点。
+笔者(准确地讲，是搬运工)在学习之余，提炼出书中核心知识点，写个【精简版】，有些像考前画重点。
 
 浓缩的，都是精华。
-
-文章地址：[http://zhaohaodang.com/pro-js/](http://zhaohaodang.com/pro-js/)
 
 
 不停的更新，进度如下：
@@ -29,12 +27,13 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
  ![](http://progressed.io/bar/0?title=completed)第25章 新兴的API
 
-完整版下载：
-
-[JavaScript高级程序设计（第3版）高清非扫描版 英文版 ](http://download.csdn.net/download/cocoos/9749983)
-
-[JavaScript高级程序设计（第3版）高清非扫描版 中文版](http://download.csdn.net/download/cocoos/9749980)
 
 
-![图书封面](https://sinacloud.net/pro-js/cover.jpg)
-=======
+​笔者喜欢吃辣条，财大气粗的客官若愿意友情赞助一包辣条，那就非常感谢老铁了:tada: 
+
+文章地址：[http://zhaohaodang.com/pro-js/](http://zhaohaodang.com/pro-js/)
+
+![https://sinacloud.net/pro-js/allpay-s.jpg](https://sinacloud.net/pro-js/allpay-s.jpg)
+
+
+

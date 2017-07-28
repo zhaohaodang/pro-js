@@ -1,4 +1,4 @@
-# JavaScript 简介
+# 第1章 JavaScript 简介
 
 JavaScript诞生于1995 年，至今已有二十多年。
 

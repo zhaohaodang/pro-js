@@ -21,7 +21,11 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
  ![](http://progressed.io/bar/100?title=completed)第6章 面向对象的程序设计
 
- ![](http://progressed.io/bar/10?title=completed)第7章 函数表达式
+ ![](http://progressed.io/bar/100?title=completed)第7章 函数表达式
+
+![](http://progressed.io/bar/60?title=completed)第8章 BOM
+
+
 
   ......
 
@@ -29,7 +33,7 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
 
 
-​笔者喜欢吃辣条，财大气粗的客官若愿意友情赞助一包辣条，那就非常感谢老铁了:tada: 
+​财大气粗的客官若愿意友情赞助一包辣条，那就非常感谢老铁了:tada: 
 
 文章地址：[http://zhaohaodang.com/pro-js/](http://zhaohaodang.com/pro-js/)
 

@@ -23,7 +23,11 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
  ![](http://progressed.io/bar/100?title=completed)第7章 函数表达式
 
-![](http://progressed.io/bar/60?title=completed)第8章 BOM
+![](http://progressed.io/bar/100?title=completed)第8章 BOM
+
+![](http://progressed.io/bar/100?title=completed)第9章 客户端检测
+
+![](http://progressed.io/bar/10?title=completed)第10章 DOM
 
 
 

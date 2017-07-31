@@ -15,3 +15,24 @@
   称为MIME 类型）。
 
 
+在使用 `<script> `嵌入 JavaScript 代码时，记住不要在代码中的任何地方出现 `</script>` 字符串。
+例如，浏览器在加载下面所示的代码时就会产生一个错误：
+
+```html
+<script type="text/javascript">
+    function sayScript(){
+    	alert("</script>");
+    }
+</script>
+```
+
+因为按照解析嵌入式代码的规则，当浏览器遇到字符串 "</script>" 时，就会认为那是结束的</script> 标签。而通过转义字符“/”可以解决这个问题
+
+```html
+<script type="text/javascript">
+    function sayScript(){
+    	alert("<\/script>");
+    }
+</script>
+```
+

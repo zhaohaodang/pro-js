@@ -37,11 +37,5 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
 
 
-​财大气粗的客官若愿意友情赞助一包辣条，那就非常感谢老铁了:tada: 
-
-文章地址：[http://zhaohaodang.com/pro-js/](http://zhaohaodang.com/pro-js/)
-
-![https://sinacloud.net/pro-js/allpay-s.jpg](https://sinacloud.net/pro-js/allpay-s.jpg)
-
 
 

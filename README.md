@@ -6,7 +6,7 @@
 
 浓缩的，都是精华。
 
-在线阅读：[https://zhaohaodang.com/pro-js/](https://zhaohaodang.com/pro-js/)
+在线阅读：[https://zhaohd.gitee.io/pro-js](https://zhaohd.gitee.io/pro-js)
 
 不停的更新，进度如下：
 

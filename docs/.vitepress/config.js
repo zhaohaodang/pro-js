@@ -4,6 +4,7 @@ export default defineConfig({
   title: "Javascript高级程序设计",
   description: "",
   lang: "zh-CN",
+   base: '/pro-js/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/apple-touch-icon.png",

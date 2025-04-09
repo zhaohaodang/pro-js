@@ -40,4 +40,4 @@ var result = compare(5, 10);
 当调用compare()时，会创建一个包含arguments、value1 和value2 的活动对象。全局执行环境的变量对象（包含result和compare）在compare()执行环境的作用域链中则处于第二位。图7-1 展示了包含上述关系的
 compare()函数执行时的作用域链。
 
-![https://sinacloud.net/pro-js/7-1.jpg](https://sinacloud.net/pro-js/7-1.jpg)
+![../../images/7-1.jpg](../../images/7-1.jpg)

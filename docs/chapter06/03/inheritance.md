@@ -31,7 +31,7 @@ alert(instance.getSuperValue());
 
 这个例子中的实例以及构造函数和原型之间的关系如图6-4 所示。
 
-![https://sinacloud.net/pro-js/6-4.jpg](https://sinacloud.net/pro-js/6-4.jpg)
+![../../images/6-4.jpg](../../images/6-4.jpg)
 
 继承是通过创建SuperType 的实例，并将该实例赋给SubType.prototype 实现的。实现的本质是重写原型对象，代之以一个新类型的实例。换句话说，原来存在于SuperType 的实例中的所有属性和方法，现在也存在于SubType.prototype 中了。在确立了继承关系之后，我们给SubType.prototype 添加了一个方法，这样就在继承了SuperType 的属性和方法的基础上又添加了一个新方法。
 
@@ -41,7 +41,7 @@ alert(instance.getSuperValue());
 
 事实上，前面例子中展示的原型链还少一环。我们知道，**所有引用类型默认都继承了Object**，而这个继承也是通过原型链实现的。大家要记住，所有函数的默认原型都是Object 的实例，因此**默认原型都会包含一个内部指针，指向Object.prototype**。这也正是所有自定义类型都会继承toString()、valueOf()等默认方法的根本原因。所以，我们说上面例子展示的原型链中还应该包括另外一个继承层次。图6-5 为我们展示了该例子中完整的原型链。
 
-![https://sinacloud.net/pro-js/6-5.jpg](https://sinacloud.net/pro-js/6-5.jpg)
+![../../images/6-5.jpg](../../images/6-5.jpg)
 
 一句话，SubType 继承了SuperType，而SuperType 继承了Object。当调用instance.toString()时，实际上调用的是保存在Object.prototype 中的那个方法。
 

@@ -8,4 +8,4 @@ JavaScript 1.0获得巨大成功，微软就在其IE 3 中加入了名为**JScri
 
 欧洲计算机制造商协会（ECMA）委派各公司中的精英，完成了一种名为ECMAScript的标准。
 
-![](https://sinacloud.net/pro-js/es.png)
+![](../../images/es.png)

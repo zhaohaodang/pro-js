@@ -6,4 +6,4 @@
 - 文档对象模型（DOM）
 - 浏览器对象模型（BOM）
 
-![](https://sinacloud.net/pro-js/realize.png)
+![](../../images/realize.png)

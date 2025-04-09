@@ -11,6 +11,7 @@ export default defineConfig({
     sidebar: [
       {
         text: "第1章 JavaScript 简介",
+        link: "/chapter01/brief",
         items: [
           { text: "1.1 JavaScript简史", link: "/chapter01/01/history" },
           {
@@ -32,6 +33,7 @@ export default defineConfig({
       },
       {
         text: "第2章 在HTML 中使用JavaScript",
+        link: "/chapter02/HowToUse",
         items: [
           {
             text: "2.1 script元素",
@@ -56,6 +58,7 @@ export default defineConfig({
       },
       {
         text: "第3章 基本概念",
+        link: "/chapter03/basics",
         items: [
           {
             text: "3.1 语法",
@@ -136,6 +139,7 @@ export default defineConfig({
       },
       {
         text: "第4章 变量、作用域和内存问题",
+        link: "/chapter04/variables-scope-memory",
         items: [
           {
             text: "4.1 基本类型和引用类型的值",
@@ -172,6 +176,7 @@ export default defineConfig({
       },
       {
         text: "第5章 引用类型",
+        link: "/chapter05/referenc-types",
         items: [
           { text: "5.1 Object 类型", link: "/chapter05/01/Object" },
           {
@@ -270,6 +275,7 @@ export default defineConfig({
       },
       {
         text: "第6章 面向对象的程序设计",
+        link: "/chapter06/object-oriented",
         items: [
           {
             text: "6.1 理解对象",
@@ -333,6 +339,7 @@ export default defineConfig({
       },
       {
         text: "第7章 函数表达式",
+        link: "/chapter07/function-expressions",
         items: [
           { text: "7.1 递归", link: "/chapter07/01/recursive" },
           {
@@ -368,6 +375,7 @@ export default defineConfig({
       },
       {
         text: "第8章 BOM",
+        link: "/chapter08/BOM-detail",
         items: [
           {
             text: "8.1 window 对象",
@@ -416,6 +424,7 @@ export default defineConfig({
       },
       {
         text: "第9章 客户端检测",
+        link: "/chapter09/client-detection",
         items: [
           {
             text: "9.1 能力检测",
@@ -450,6 +459,7 @@ export default defineConfig({
       },
       {
         text: "第10章 DOM",
+        link: "/chapter10/DOM-detail",
         items: [
           {
             text: "10.1 节点层次",
@@ -493,6 +503,7 @@ export default defineConfig({
       },
       {
         text: "第11章 DOM 扩展",
+        link: "/chapter11/DOM-extensions",
         items: [
           {
             text: "11.1 选择符API",
@@ -553,6 +564,7 @@ export default defineConfig({
       },
       {
         text: "第12章 DOM2 和DOM3",
+        link: "/chapter12/DOM2-DOM3",
         items: [
           {
             text: "12.1 DOM 变化",
@@ -602,6 +614,7 @@ export default defineConfig({
       },
       {
         text: "第13章 事件",
+        link: "/chapter13/events",
         items: [
           {
             text: "13.1 事件流",
@@ -703,6 +716,7 @@ export default defineConfig({
       },
       {
         text: "第14章 表单脚本",
+        link: "/chapter14/scripting-forms",
         items: [
           {
             text: "14.1 表单的基础知识",
@@ -759,6 +773,7 @@ export default defineConfig({
       },
       {
         text: "第15章 使用Canvas 绘图",
+        link: "/chapter15/canvas",
         items: [
           { text: "15.1 基本用法", link: "/chapter15/01/basic-usage" },
           {
@@ -792,6 +807,7 @@ export default defineConfig({
       },
       {
         text: "第16章 HTML5 脚本编程",
+        link: "/chapter16/HTML5-scripting",
         items: [
           { text: "16.1 跨文档消息传递", link: "/chapter16/01/messaging" },
           {
@@ -838,6 +854,7 @@ export default defineConfig({
       },
       {
         text: "第17章 错误处理与调试",
+        link: "/chapter17/error-handling-debugging",
         items: [
           {
             text: "17.1 浏览器报告的错误",
@@ -914,6 +931,7 @@ export default defineConfig({
       },
       {
         text: "第18章 JavaScript 与XML",
+        link: "/chapter18/XML-in-JavaScript",
         items: [
           {
             text: "18.1 浏览器对XML DOM 的支持",
@@ -969,6 +987,7 @@ export default defineConfig({
       },
       {
         text: "第19章 E4X",
+        link: "/chapter19/E4X",
         items: [
           {
             text: "19.1 E4X 的类型",
@@ -1008,6 +1027,7 @@ export default defineConfig({
       },
       {
         text: "第20章 JSON",
+        link: "/chapter20/json",
         items: [
           {
             text: "20.1 语法",
@@ -1029,6 +1049,7 @@ export default defineConfig({
       },
       {
         text: "第21章 Ajax 与Comet",
+        link: "/chapter21/ajax-comet",
         items: [
           {
             text: "21.1 XMLHttpRequest 对象",
@@ -1110,6 +1131,7 @@ export default defineConfig({
       },
       {
         text: "第22章 高级技巧",
+        link: "/chapter22/advanced-techniques",
         items: [
           {
             text: "22.1 高级函数",
@@ -1173,6 +1195,7 @@ export default defineConfig({
       },
       {
         text: "第23章 离线应用与客户端存储",
+        link: "/chapter23/applications-storage",
         items: [
           { text: "23.1 离线检测", link: "/chapter23/01/offline-detection" },
           { text: "23.2 应用缓存", link: "/chapter23/02/application-cache" },
@@ -1189,6 +1212,7 @@ export default defineConfig({
       },
       {
         text: "第24章 最佳实践",
+        link: "/chapter24/best-practices",
         items: [
           {
             text: "24.1 可维护性",
@@ -1229,6 +1253,7 @@ export default defineConfig({
       },
       {
         text: "第25章 新兴的API",
+        link: "/chapter25/emerging-APIs",
         items: [
           {
             text: "25.1 requestAnimationFrame()",

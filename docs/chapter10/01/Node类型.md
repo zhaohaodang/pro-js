@@ -58,7 +58,7 @@ var count = someNode.childNodes.length;
 
 图 10-2 形象地展示了上述关系。
 
-![https://sinacloud.net/pro-js/10-2.jpg](https://sinacloud.net/pro-js/10-2.jpg)
+![../../images/10-2.jpg](../../images/10-2.jpg)
 
 另外， hasChildNodes() 也是一个非常有用的方法，这个方法在节点包含一或多个子节点的情况下返回 true ；应该说，这是比查询 childNodes列表的 length 属性更简单的方法。
 
